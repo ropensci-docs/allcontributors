@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "69a540440f0626a59a930e875cb3caa45c65eaf3",
+    "author": "mpadge <mark.padgham@email.com>",
+    "time": "2021-05-28 09:50:50",
+    "files": 3,
+    "merge": false,
+    "message": "update .Rbuildignore\n"
+  },
+  "remote": "https://github.com/ropenscilabs/allcontributors",
+  "pkg": "allcontributors"
+}
