@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "54d28a736ac36993829e038b5a1b34cbc66c9026",
+    "author": "mpadge <mark.padgham@email.com>",
+    "time": "2024-01-30 12:16:25",
+    "files": 3,
+    "merge": false,
+    "message": "update cran-comments from last submission\n"
+  },
+  "repo": "https://github.com/ropenscilabs/allcontributors",
+  "pkg": "allcontributors"
+}
