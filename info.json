@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "610788040945d797fd6a50a26948f73edee15468",
+    "author": "mark padgham <mark.padgham@email.com>",
+    "time": "2024-10-14 16:32:22",
+    "files": 5,
+    "merge": true,
+    "message": "Merge pull request #48 from ropensci/ropensci\n\nupdate all pkg URLs to close #47"
+  },
+  "repo": "https://github.com/ropensci/allcontributors",
+  "pkg": "allcontributors"
+}
