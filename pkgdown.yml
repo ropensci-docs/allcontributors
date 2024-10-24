@@ -1,0 +1,9 @@
+pandoc: 3.2.1
+pkgdown: 2.1.0
+pkgdown_sha: ~
+articles:
+  allcontributors: allcontributors.html
+last_built: 2024-10-24T12:24Z
+urls:
+  reference: https://docs.ropensci.org/allcontributors/reference
+  article: https://docs.ropensci.org/allcontributors/articles

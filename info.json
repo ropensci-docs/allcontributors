@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "0766a70c4c9b32a6cf9edf1aa5698d20ad679a35",
+    "author": "mpadge <mark.padgham@email.com>",
+    "time": "2024-10-24 12:18:41",
+    "files": 3,
+    "merge": false,
+    "message": "update precomit-config [ci skip]\n"
+  },
+  "repo": "https://github.com/ropensci/allcontributors",
+  "pkg": "allcontributors"
+}
