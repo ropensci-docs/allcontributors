@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "280761a050615d61d3c0a811d6500daada2e763f",
+    "author": "mpadge <mark.padgham@email.com>",
+    "time": "2026-08-26T11:47:12Z",
+    "files": 4,
+    "merge": false,
+    "message": "add 'dependabot' to 'rm_ctbs_ptn'\n"
+  },
+  "repo": "https://github.com/ropensci/allcontributors",
+  "pkg": "allcontributors",
+  "time": "2026-08-26T12:06:46Z"
+}
