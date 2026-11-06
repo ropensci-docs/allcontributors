@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "6adb8a3e98bafaf86cd7d79f17a39e95e5db8fea",
+    "author": "mpadge <mark.padgham@email.com>",
+    "time": "2026-11-06T11:19:28Z",
+    "files": 4,
+    "merge": false,
+    "message": "mv README.Rmd -> README-src.Rmd for tangled render\n"
+  },
+  "repo": "https://github.com/ropensci/allcontributors",
+  "pkg": "allcontributors",
+  "time": "2026-11-06T15:22:07Z"
+}
